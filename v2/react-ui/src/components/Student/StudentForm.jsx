@@ -20,14 +20,6 @@ function StudentForm({selectedStudent = null}){
     useEffect(()=>{
       if(selectedStudent){
         setStudent(selectedStudent);
-      //   setStudent({
-      //     studentId: selectedStudent.studentId ?? selectedStudent.id ?? 0,
-      //     firstName: selectedStudent.firstName ?? "",
-      //     lastName: selectedStudent.lastName ?? "",
-      //     standard: selectedStudent.standard ?? "",
-      //     phoneNumber: selectedStudent.phoneNumber ?? "",
-      //     address: selectedStudent.address ?? "",
-      // });
       } else {
       setStudent(blank);
     }
