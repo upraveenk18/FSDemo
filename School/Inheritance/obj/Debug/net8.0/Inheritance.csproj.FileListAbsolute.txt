@@ -1,0 +1,15 @@
+C:\FSDemo\School\Inheritance\bin\Debug\net8.0\Inheritance.exe
+C:\FSDemo\School\Inheritance\bin\Debug\net8.0\Inheritance.deps.json
+C:\FSDemo\School\Inheritance\bin\Debug\net8.0\Inheritance.runtimeconfig.json
+C:\FSDemo\School\Inheritance\bin\Debug\net8.0\Inheritance.dll
+C:\FSDemo\School\Inheritance\bin\Debug\net8.0\Inheritance.pdb
+C:\FSDemo\School\Inheritance\obj\Debug\net8.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\FSDemo\School\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfoInputs.cache
+C:\FSDemo\School\Inheritance\obj\Debug\net8.0\Inheritance.AssemblyInfo.cs
+C:\FSDemo\School\Inheritance\obj\Debug\net8.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\FSDemo\School\Inheritance\obj\Debug\net8.0\Inheritance.sourcelink.json
+C:\FSDemo\School\Inheritance\obj\Debug\net8.0\Inheritance.dll
+C:\FSDemo\School\Inheritance\obj\Debug\net8.0\refint\Inheritance.dll
+C:\FSDemo\School\Inheritance\obj\Debug\net8.0\Inheritance.pdb
+C:\FSDemo\School\Inheritance\obj\Debug\net8.0\Inheritance.genruntimeconfig.cache
+C:\FSDemo\School\Inheritance\obj\Debug\net8.0\ref\Inheritance.dll
